@@ -1,5 +1,3 @@
-# README for Mobile WebDriver Challenge
-
 ## Overview
 
 This project is designed to demonstrate a mobile testing framework using WebdriverIO with Appium for both iOS and Android platforms. The framework leverages TypeScript for scripting tests, providing a robust and type-safe way to automate mobile application testing.
